@@ -1,0 +1,13 @@
+{
+    "name": "Famous Hindi Joke",
+    "description": "Get New Joke Everyday",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "extan.html",
+        "default_icon": "joke.png"
+    },
+    "icons": {
+        "128": "joke.png"
+    }
+}
